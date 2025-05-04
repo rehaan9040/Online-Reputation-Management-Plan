@@ -14,3 +14,4 @@ This document focuses on creating an effective online reputation management (ORM
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/be19833f-599b-4d34-a0ff-6021591d1d6e)
